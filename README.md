@@ -3,7 +3,7 @@
 
 This repository provides image download link and mask annotations for the Amodal Scene in the Wild (ASW) dataset as described in the AAAI2024 paper:
 
-### Amodal Scene Analysis via Holistic Occlusion Relation Inference and Generative Mask Completion
+#### Amodal Scene Analysis via Holistic Occlusion Relation Inference and Generative Mask Completion
 Bowen Zhang, Qing Liu, Jianming Zhang, Yilin Wang, Akide Liu, Zhe Lin, Yifan Liu
 
 ## Download image and annotation files
